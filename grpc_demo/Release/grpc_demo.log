@@ -1,0 +1,8 @@
+﻿  client.cc
+  hello.grpc.pb.cc
+  hello.pb.cc
+  server.cc
+  正在生成代码
+  All 1254 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  grpc_demo.vcxproj -> D:\workspace\grpc-demo\grpc_demo\Release\grpc_demo.exe
